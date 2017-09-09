@@ -1,0 +1,67 @@
+#MODULE2_REVIEW 1.1 - Intro to reviewing Module 2
+#MODULE2_REVIEW 1.2 - What did we learn and build?
+#MODULE2_REVIEW 1.4 - Where do we go from here?
+#MODULE2_REVIEW 1.1 - Outro to reviewing Module 2
+
+
+
+#MODULE1_REVIEW 1.1 - Intro to reviewing Module 2
+Hey Chris from Codify Academy here, I want to review, what you've hopefully done, and built, in the last video series.
+
+If you've missed anything, check out the link in the description to that series.
+
+
+
+#MODULE1_REVIEW 1.2 - What did we learn and build?
+We learned about another value we can use for the display property: inline-block.
+
+We learned how CSS reads from the top to bottom and styles with a cascading affect the last should take precedence
+
+We learned how to get more or less specific with CSS selectors which will affect how CSS cascading happens
+
+We learned how to apply multiple classes to any element
+
+We learned about the major value types in CSS, color and length
+
+We saw our first CSS reset code to our template folder
+
+We learned where to go in the browser to find what CSS properties are being applied to any element
+
+We learned how to position elements with CSS
+
+We learned how center elements
+
+We learned where to find the new HTML5 tags in w3schools
+
+We learned what ASCII codes are and how to use them
+
+We reviewed adding images into HTML or CSS and what spirit images are used for
+
+We learned how to add fonts to any projects using Google or dafonts
+
+We made a replica of the visual arts website
+
+We learned what paper prototyping is
+
+We created a facebook login page paper prototype
+
+We built that facebook login website from our paper prototype
+
+We loaded up the projects we built this week to GitHub
+
+and finally we did a review of some basic and more advanced selectors
+
+
+
+#MODULE1_REVIEW 1.3 - Where do we go from here?
+Deep Breath --- Woo that was, just remember to practice coding every single day.
+
+
+#MODULE1_REVIEW 1.4 - Outro to reviewing Module 1
+Thats it for now, again if you need to go back and complete anything you missed, or review these concepts anytime check out the link to the previous video series in the description.
+
+
+LINKS
+link to week 1 playlist - https://www.youtube.com/watch?v=SAm8UHa9TJY&index=2&list=PLvyX_84L7-lskUZLY9nmNf5Nsa6DRcGqn
+
+http://bit.ly/2xWyPwd
